@@ -1,0 +1,3 @@
+created a template in base.html so that rest can iherite iherite
+- here in stylesheet we used url_for becuse staic/css/main.css does work
+-we need to jinja test {{url_for('mainfolder',filename='folder/file.css)}}
